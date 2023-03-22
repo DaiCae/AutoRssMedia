@@ -1,4 +1,3 @@
-import yaml
 from flask import Flask
 
 from app import exts
